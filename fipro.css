@@ -1,0 +1,15 @@
+.ucing1 {
+    width : 500px;
+    height: 500px;
+}
+
+.Jumbotron {
+    background-image: url("ucing1.jpeg");
+    height: 90vh;
+    background-size: contain;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:black;
+}
